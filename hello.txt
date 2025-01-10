@@ -1,0 +1,10 @@
+def Pelindrome?(string)
+  string == string.reverse 
+end 
+puts "Enter a pelindrome or not pelindrome string or number"
+input = gets.chomp 
+if Pelindrome?(input)
+  puts "#{input}: is a pelindrome"
+else 
+  puts "#{input}: iss not pelindrome"
+end 
