@@ -1,2 +1,2 @@
-# main
-first main
+# main-demo
+my first main repository
