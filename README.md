@@ -1,4 +1,4 @@
 # main-demo
 my first main repository!
 <br>
-Author = ritik vishwakarma
+Author = ritik vishwakarma (ruby programming)

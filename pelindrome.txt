@@ -6,5 +6,5 @@ input = gets.chomp
 if Pelindrome?(input)
   puts "#{input}: is a pelindrome"
 else 
-  puts "#{input}: iss not pelindrome"
+  puts "#{input}: is not pelindrome"
 end 
